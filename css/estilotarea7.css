@@ -15,7 +15,6 @@ main {
 h2 {
   text-transform: uppercase;
   font-size: calc(1em + 0.5vw);
-  color: lighten(#282828, 50%);
   margin-bottom: 1em;
 }
 
@@ -115,7 +114,6 @@ h1 {
 @keyframes slideInLeft {
   from {
     margin-right: 100%;
-    width: -300%
   }
 
   to {
